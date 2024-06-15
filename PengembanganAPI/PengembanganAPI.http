@@ -1,0 +1,6 @@
+@PengembanganAPI_HostAddress = http://localhost:5001
+
+GET {{PengembanganAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
